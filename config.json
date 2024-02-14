@@ -1,0 +1,21 @@
+{
+  "token": "",
+  "mongodb": "",
+  "clientId": "",
+  "valorant": "",
+  "roleAD": "",
+  "prefix":";",
+  "owner":[""],
+  "legitChannel": "",
+  "orderChannel": "",
+  "buyChannel": "",
+  "nodes":[
+    {
+      "name":"",
+      "host":"",
+      "port": 443,
+      "password": "",
+      "secure": false
+    }
+  ]
+}

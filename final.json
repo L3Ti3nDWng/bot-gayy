@@ -1,0 +1,21 @@
+{
+  "token": "MTE4NDE1MDI0MTE4NDg0NTg4NQ.GtBQjy.2TVGdlwJDkYboRm2ZxE73PrkWvb-J_lvsXWag0",
+  "mongodb": "mongodb+srv://dungcoi1209:dznqq1209@cluster0.apxbvmc.mongodb.net/?retryWrites=true&w=majority",
+  "clientId": "1184150241184845885",
+  "valorant": "1193279245879881838",
+  "roleAD": "1077085400130125925",
+  "prefix":";",
+  "owner":["1092072128142118972"],
+  "legitChannel": "",
+  "orderChannel": "",
+  "buyChannel": "",
+  "nodes":[
+    {
+      "name":"cc",
+      "host":"lavalink-v4.teramont.net",
+      "port": 443,
+      "password": "eHKuFcz67k4lBS64",
+      "secure": true
+    }
+  ]
+}
